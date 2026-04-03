@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\bin\Debug\net8.0-windows\proyecto hunter.exe
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\bin\Debug\net8.0-windows\proyecto hunter.deps.json
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\bin\Debug\net8.0-windows\proyecto hunter.runtimeconfig.json
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\bin\Debug\net8.0-windows\proyecto hunter.dll
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\bin\Debug\net8.0-windows\proyecto hunter.pdb
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto_hunter.Form1.resources
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto_hunter.Resources.resources
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto hunter.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto hunter.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto hunter.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto hunter.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto hunter.dll
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\refint\proyecto hunter.dll
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto hunter.pdb
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\proyecto hunter.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\proyecto hunter\proyecto hunter\obj\Debug\net8.0-windows\ref\proyecto hunter.dll
